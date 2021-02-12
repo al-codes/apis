@@ -1,3 +1,4 @@
-/env/
-__pycache__/
+.env/ 
 secrets.sh
+.DS_Store
+/.env/
